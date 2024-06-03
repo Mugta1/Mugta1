@@ -4,6 +4,8 @@
 - 📫 You can reach me at mg.15deep@gmail.com ...
 - 😄 Pronouns: He/Him ...
 
+[![GitHub Streak](https://streak-stats.demolab.com/Mugta1DenverCoder1)](https://git.io/streak-stats)
+
 
 <!---
 Mugta1/Mugta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
