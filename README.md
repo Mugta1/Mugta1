@@ -1,4 +1,4 @@
-#Hi, I'm Mayank Gupta
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mugta1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
