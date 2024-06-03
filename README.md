@@ -4,7 +4,7 @@
 - 📫 You can reach me at mg.15deep@gmail.com ...
 - 😄 Pronouns: He/Him ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Mugta1=DenverCoder1)]
+[![GitHub Streak](https://streak-stats.demolab.com/?Mugta1DenverCoder1)]
 
 
 <!---
