@@ -1,7 +1,7 @@
 # Hi, I'm Mayank Gupta!
 
 ### I'm interested in Machine Learning, Computer Vision and Neural Networks :)
-
+#### (I also make python programs to make my life easier haha)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mugta1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
